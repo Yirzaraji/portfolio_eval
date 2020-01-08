@@ -109,11 +109,12 @@ padding-right: 1%;
 	
 }
 
-.cell01{
-	
-		width: 32%;
-	
-		
+.cell01 {
+    width: 32%;
+    border: 2px solid 
+    #f2f2f2;
+    margin-bottom: 40px;
+}	
 		
 	
 	
